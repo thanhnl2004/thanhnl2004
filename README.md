@@ -19,8 +19,8 @@ I'm a 3rd year CS student @ ANU with deep interest in Full-Stack & AI developmen
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/thanhnguyen2004/
-- Portfolio: https://thanh-nguyen.vercel.app/
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/thanhnguyen2004/)
+- Portfolio: [Website](https://thanh-nguyen.vercel.app/)
 - Email: lethanh300504@gmail.com
 ---
 
