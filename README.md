@@ -10,11 +10,7 @@ I'm a 3rd year CS student @ ANU with deep interest in Full-Stack & AI developmen
   <a href="https://github.com/thanhnl2004/github-readme-stats">
     <img height="250" src="https://github-readme-stats.vercel.app/api?username=thanhnl2004&rank_icon=github&show=prs_merged,prs_merged_percentage" />
   </a>
-  <a href="https://github.com/thanhnl2004/convoychat">
-    <img height="250" src="https://api.githubtrends.io/user/svg/thanhnl2004/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
-  </a>
 </div>
-
 ---
 
 ## 🌐 Connect with me
