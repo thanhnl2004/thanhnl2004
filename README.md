@@ -1,6 +1,6 @@
 # 🧠 About Me
 
-I'm a 3rd year CS student @ ANU with deep interest in Full-Stack & AI development. Always open to new opportunities in Tech industry and love connecting with new people.
+I'm a final year CS student @ ANU with deep interest in Full-Stack & AI development. Always open to new opportunities in Tech industry and love connecting with new people.
 
 ---
 
