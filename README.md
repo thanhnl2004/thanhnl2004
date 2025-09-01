@@ -1,16 +1,8 @@
 # 🧠 About Me
 
 I'm a final year CS student @ ANU with deep interest in Full-Stack & AI development. Always open to new opportunities in Tech industry and love connecting with new people.
+I'm currently working as a Contract Software Engineer at NIE, my main tasks are integrating APIs and manage Cloud Infra. Tech stacks: TypeScript, Node.js, AWS Lambda, PHP, MySQL, HikaShop.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/thanhnl2004/github-readme-stats">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=thanhnl2004&rank_icon=github&show=prs_merged,prs_merged_percentage" />
-  </a>
-</div>
 ---
 
 ## 🌐 Connect with me
